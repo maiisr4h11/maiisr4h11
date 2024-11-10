@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=maiisr4h11.maiisr4h11)
+
 # Hi there! 👋 I'm Maisarah Ibrahim 
 
 ### 💻 Full Stack Developer | IT Graduate | Aspiring Leader
@@ -22,4 +22,6 @@ I am always open to learning and collaborating on meaningful projects. Feel free
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=radical)
+
+### 🔥 Total Views
+![Profile Views](https://komarev.com/ghpvc/?username=maiisr4h11&color=blueviolet)
