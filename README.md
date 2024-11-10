@@ -20,8 +20,8 @@ I aspire to become a leader who makes a positive impact through innovative tech 
 I am always open to learning and collaborating on meaningful projects. Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/in/maisarah-ibrahim/](https://www.linkedin.com/in/maisarah-ibrahim/).
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11e&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11e&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=maiisr4h11&theme=tokyonight)
 
 ### 👾Top Languages
