@@ -20,3 +20,6 @@ I am always open to learning and collaborating on meaningful projects. Feel free
 
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11&show_icons=true&theme=tokyonight)
+
+### 👾Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=radical)
