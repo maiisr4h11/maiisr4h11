@@ -22,7 +22,7 @@ I am always open to learning and collaborating on meaningful projects. Feel free
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=maiisr4h11&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=maiisr4h11&theme=radical)
 
 ### 👾Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maiisr4h11&layout=compact&theme=radical)
