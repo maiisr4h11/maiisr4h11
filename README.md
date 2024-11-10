@@ -15,17 +15,6 @@ I aspire to become a leader who makes a positive impact through innovative tech 
 - **Project Management:** Jira, Figma
 - **Version Control:** Git & GitHub
 
-### 📚 What I'm Working On
-- **Hansard+**: A digital solution for documenting parliamentary records in Malaysia, featuring AI capabilities for speech recognition and topic detection.
-- **Expense Tracker Project**: [Link to GitHub Repo](https://github.com/maiisr4h11/expenses_tracker.git)
-
-### 🏆 Achievements
-- **3rd Runner-up** in Technology and System Innovation Exposition (TSIX) with my mobile app project, *Covid-19 Safety Simulation Quiz Game*.
-- Developed a comprehensive **Event Booking System** during my full-stack bootcamp.
-
 ### 🚀 Let's Connect!
 I am always open to learning and collaborating on meaningful projects. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/your-linkedin).
 
----
-
-Feel free to customize the links and details as needed! Let me know if you’d like to adjust any section further.
