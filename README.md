@@ -16,7 +16,7 @@ I aspire to become a leader who makes a positive impact through innovative tech 
 - **Version Control:** Git & GitHub
 
 ### 🚀 Let's Connect!
-I am always open to learning and collaborating on meaningful projects. Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/your-linkedin](https://www.linkedin.com/in/maisarah-ibrahim/).
+I am always open to learning and collaborating on meaningful projects. Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/in/maisarah-ibrahim/](https://www.linkedin.com/in/maisarah-ibrahim/).
 
 ### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=maiisr4h11&show_icons=true&theme=tokyonight)
