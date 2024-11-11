@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Maisarah Ibrahim 
 
-### 💻 Full Stack Developer | IT Graduate | Aspiring Leader
+### 💻 Full Stack Developer
 
 I'm a passionate Full Stack Developer with a foundation in **Information Technology** and nearly one year of hands-on experience in **Digital Marketing** and **Education Sectors** as a Web Developer Intern. I am currently enhancing my skills through a **Full Stack Developer Program under Yayasan Pahang** with a focus on the **MERN stack**. I love blending technology with creativity to build engaging, functional applications!
 
